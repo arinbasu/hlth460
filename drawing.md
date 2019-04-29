@@ -1,5 +1,5 @@
 
-![Alt text](https://g.gravizo.com/source/custom_mark10?https%3A%2F%2Fraw.githubusercontent.com%2FTLmaK0%2Farinbasu%2Fmaster%2Fdrawing.md)
+![Alt text](https://g.gravizo.com/source/custom_mark10?https%3A%2F%2Fraw.githubusercontent.com%2Farinbasu%2Fhlth460%2Fmaster%2Fdrawing.md)
 <details> 
 <summary></summary>
 custom_mark10
